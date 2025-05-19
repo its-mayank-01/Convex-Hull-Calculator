@@ -1,5 +1,6 @@
 # Convex-Hull-Calculator
 done in Digisim'25, Udyam, EES
+
 • Implemented Convex Hull using Jarvis March (Gift Wrapping) algorithm in digital circuits, utilizing FSMs for
 point selection and ROM for storing 2D input coordinates.
 
