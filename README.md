@@ -9,3 +9,5 @@ collinear and non-collinear cases via cross-product and distance formulae.
 
 • Integrated an 8-bit adder and Binary to BCD converter for summing and visualizing Convex Hull points as
 final output.
+
+- Mayank Yadav
